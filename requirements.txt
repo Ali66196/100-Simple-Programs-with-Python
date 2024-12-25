@@ -1,0 +1,7 @@
+Pillow
+fpdf
+matplotlib
+requests
+qrcode
+sympy
+pandas
